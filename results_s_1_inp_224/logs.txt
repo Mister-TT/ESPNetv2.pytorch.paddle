@@ -1,0 +1,2 @@
+
+Epoch	Loss(Tr)	Loss(val)	top1 (tr)	top1 (val	
